@@ -24,6 +24,13 @@ cat << EOF
 			<a href="${IMG_PATH}.png" class="btn btn-sm btn-outline-secondary" type="button">png</a>
 			<a href="${IMG_PATH}.ai" class="btn btn-sm btn-outline-secondary" type="button">ai (source)</a>
                 </div>
+                
+              
+              <div align=right>
+              <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+              <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
+              </a>
+              </div>
               </div>
             </div>
           </div>
