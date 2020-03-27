@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/bin/bash 
 
 cat header.html
 
-for IMG_PATH in $(find images -type f -name \*.ai | sed 's/.ai//g' );do
+for IMG_PATH in $(find images -type f -name \*.ai | sed 's/.ai$//g' );do
 
 TEXT_TITLE=$(cat ${IMG_PATH}.txt | head -1)
 TEXT_BODY=$(cat ${IMG_PATH}.txt | tail -1)
@@ -38,3 +38,5 @@ cat << EOF
 EOF
 
 done
+
+cat footer.html
