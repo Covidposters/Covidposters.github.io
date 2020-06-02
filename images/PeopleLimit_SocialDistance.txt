@@ -1,0 +1,3 @@
+Maximum People Limit with Social Distance
+
+Sign to communicate maximum number of people allowed in one area and to remind about social distancing. Write the number per space in the circle.(A4)
