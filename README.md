@@ -11,3 +11,10 @@
 ```
 python -m SimpleHTTPServer
 ```
+
+BECAUSE WINDOWS IS THE WORST
+sudo -i
+
+cd /mnt/c/Users/Kimberley\ Lawrence/Desktop/GitHub/Covidposters.github.io/
+
+  ./generate_index.sh > index.html
